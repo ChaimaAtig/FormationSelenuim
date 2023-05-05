@@ -48,6 +48,10 @@ public class Authentification {
 			Assert.assertEquals("Paul Colling", text);
 			//affichage
 			System.out.println("Test ok");
+			
+			
+			
+			
 		
 		
 		
